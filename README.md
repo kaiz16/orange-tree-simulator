@@ -21,7 +21,7 @@ Your task is to implement the OrangeTree class and the Orange class.
 - The Orange class should have the following features:
   - Should have `diameter` property to keep track of orange's diameter.
 
-### Starter Code
+## Starter Code
 
 ```js
 class Orange {
@@ -83,4 +83,121 @@ console.log(
   `At last, the tree has died. It produced a total of ${totalOranges} oranges.`
 );
 // Driver code - DO NOT MODIFY
+```
+
+If you have implemented the program correctly, you should see the output similar to the following: (Note that the output will vary if you're using random numbers to generate the tree's age, height, etc.)
+
+```sh
+Year 3 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 21
+Year 4 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 31
+Year 5 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 41
+Year 6 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 51
+Year 7 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 61
+Year 8 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 71
+Year 9 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 81
+Year 10 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 11 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 12 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 13 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 14 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 15 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 16 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 17 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 18 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 19 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 20 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 21 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 22 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 23 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 24 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 25 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 26 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 27 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 28 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 29 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 30 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 31 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 32 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 33 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 34 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 35 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 36 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 37 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 38 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+Year 39 Report
+Harvest: 3 oranges with an average diameter of 3 cm
+Tree height: 91
+At last, the tree has died. It produced a total of 111 oranges.
 ```
